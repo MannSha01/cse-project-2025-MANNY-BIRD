@@ -2,7 +2,7 @@
 
 **OverView**-
 this is my small project where I tried to recreate the classic (**Flappy Bird**) game using Python and Pygame.  
-I built it mainly for practice and fun.
+I built it mainly for fun.
 
 
 **Features**
