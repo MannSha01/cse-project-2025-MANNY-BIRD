@@ -1,6 +1,6 @@
 # Manny bird ( FLappy bird clone )
 
-**OverView**
+**OverView**-
 this is my small project where I tried to recreate the classic (**Flappy Bird**) game using Python and Pygame.  
 I built it mainly for practice and fun.
 
@@ -25,7 +25,7 @@ I built it mainly for practice and fun.
  - make sure you have random library installed even tho its pre installed
 
 
-**How to run it**
+**How to run it**-
 step 1 - copy the source code and paste it in vscode , goolecolab etc.
 step 2 - install the pngs and keep them in the same folder as the source code 
 step-3 - click on the run button and you are good to go ENJOY AND LET ME KNOW HOW WAS IT :)
