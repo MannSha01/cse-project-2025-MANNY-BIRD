@@ -26,9 +26,9 @@ I built it mainly for practice and fun.
 
 
 **How to run it**-
-step 1 - copy the source code and paste it in vscode , goolecolab etc.
-step 2 - install the pngs and keep them in the same folder as the source code 
-step-3 - click on the run button and you are good to go ENJOY AND LET ME KNOW HOW WAS IT :)
+- step 1 - copy the source code and paste it in vscode , goolecolab etc.
+- step 2 - install the pngs and keep them in the same folder as the source code 
+- step-3 - click on the run button and you are good to go ENJOY AND LET ME KNOW HOW WAS IT :)
 
 
 **instruction for testing**
